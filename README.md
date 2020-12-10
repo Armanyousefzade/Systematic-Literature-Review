@@ -23,6 +23,6 @@ To conduct my SLR, manage a large number of references, and remove duplicate stu
 
 All the phases of the SLR except snowballing were done with the StArt tool. The snowballing phase is not supported by the tool, so it was done manually and by checking all the backward and forward citations of papers. 
 
-All the details of each phase of my SLR incliding the papers that were accepted and rejected in each phase, all the found papers in the search phase through the databases, and duplicated papers and other types of visualization of process of our SLR is available in the review.start file in this repository. This file should be opened by StArt tool (State of the Art through Systematic Review). Download this tool from http://lapes.dc.ufscar.br/tools/start_tool and watch a Tutorial for this tool in https://www.youtube.com/watch?v=zCTKl1TBmxU&t=5s
+All the details of each phase of my SLR incliding the papers that were accepted and rejected in each phase, all the found papers in the search phase through the databases, and duplicated papers and other types of visualization of process of our SLR is available in the review.start file in this repository. This file should be opened by StArt tool (State of the Art through Systematic Review). Download this tool from http://lapes.dc.ufscar.br/tools/start_tool and watch a tutorial for using this tool in https://www.youtube.com/watch?v=zCTKl1TBmxU&t=5s
 
 All of the recorded details about our SLR are documented in this repository and in review.start file.
