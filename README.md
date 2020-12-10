@@ -1,11 +1,11 @@
 # Systematic-Literature-Review
 Details of Systematic Literature Review
+
 To obtain an overview of the research literature on the measurement of SECO health, I performed a systematic literature review, a method to identify, evaluate, and interpret the available research relevant to a particular topic, research question, or phenomenon of interest. By conducting an SLR, I aimed to identify and interpret the available research relevant to the following research questions:
-\begin{description}
-\item [RQ1:] How has software ecosystem health been defined in the literature?
-\item [RQ2:] What metrics have been proposed for evaluating software ecosystem health in the literature?
-\item [RQ3:] What practices have been proposed for improving software ecosystem health in the literature?
-\end{description}
+
+RQ1: How has software ecosystem health been defined in the literature?
+RQ2: What metrics have been proposed for evaluating software ecosystem health in the literature?
+RQ3: What practices have been proposed for improving software ecosystem health in the literature?
 
 I performed my systematic literature review based on the guidelines described by Kitchenham and Charters \cite{kitchenham2007guidelines}. I selected the following four electronic databases for my search: ACM Digital Library, IEEEXplore, ScienceDirect, and SpringerLink. Appropriate search terms are important to properly and effectively search for relevant studies. In this respect, Kitchenham and Charters \cite{kitchenham2007guidelines} propose viewpoints related to population, intervention, comparison, and outcome (PICO), which SLRs have widely utilized \cite{alam2015impact,petersen2015guidelines,zakari2020multiple}. I do not have a clear intervention and comparison in this study; however, the relevant terms for population and the outcome are as follows:
 \begin{description}
